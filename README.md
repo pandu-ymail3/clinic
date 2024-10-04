@@ -15,7 +15,7 @@ git clone -b master https://github.com/pandu-ymail3/clinic.git
 
 Database with sample data, file is clinic.sql. 
 
-Import and Connect the database with .env file and run laravel command to start the server. 
+Import and Connect the database with .env file and run the below laravel command inside clinic folder, to start the laravel server. 
 
 php artisan serve
 
